@@ -1,0 +1,22 @@
+body {
+  background-color: #6a62d2;
+  text-align: center;
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+form {
+  height: 400px;
+  width: 400px;
+  background-color: #ffffff;
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
