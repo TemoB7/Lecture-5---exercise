@@ -1,25 +1,65 @@
 body {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
   background-color: #6a62d2;
+}
+
+form {
+  height: 330px;
+  width: 400px;
+  background-color: #ffffff;
+  margin: 150px auto;
+  border-radius: 5px;
+  padding-top: 30px;
 }
 
 div {
   color: #464646;
   font-size: 20px;
   font-weight: bold;
-}
-
-section {
-  height: 400px;
-  width: 400px;
-  background-color: #ffffff;
-  margin: 150px auto;
-}
-
-form {
+  padding-bottom: 30px;
   text-align: center;
-  padding-top: 30px;
 }
 
-input {
+.name {
+  height: 40px;
+  width: 280px;
+  border-radius: 3px;
+  border: none;
+  margin-top: 10px;
+  background-color: #e5e8ed;
+  margin-left: 60px;
+}
+
+.check {
   margin-top: 20px;
+  margin-left: 60px;
+  color: #9096a1;
+}
+
+button {
+  height: 40px;
+  width: 280px;
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 30px;
+  background-color: #6a62d2;
+  border: none;
+  border-radius: 3px;
+  color: #f6f6fc;
+  margin-bottom: 30px;
+}
+
+label {
+  color: #9096a1;
+  font-size: 13px;
+}
+
+span {
+  color: #9096a1;
+  font-size: 13px;
+  margin-left: 130px;
+  margin-top: 30px;
 }
