@@ -1,22 +1,25 @@
 body {
   background-color: #6a62d2;
-  text-align: center;
 }
 
 div {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  color: #464646;
+  font-size: 20px;
+  font-weight: bold;
 }
 
-form {
+section {
   height: 400px;
   width: 400px;
   background-color: #ffffff;
+  margin: 150px auto;
+}
+
+form {
   text-align: center;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  padding-top: 30px;
+}
+
+input {
+  margin-top: 20px;
 }
